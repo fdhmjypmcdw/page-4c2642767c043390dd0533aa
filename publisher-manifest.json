@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8186f9460aa4a51a907e1f2d",
+  "owner": "fdhmjypmcdw",
+  "repo": "page-4c2642767c043390dd0533aa",
+  "title": "猫尾酒馆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c2642767c043390dd0533aa",
+      "a": "猫尾酒馆",
+      "b": "",
+      "entity": "猫尾酒馆",
+      "brand": "猫尾酒馆",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0bfbb8dfe943e4d5a7c9977d4a7230ced56ed7e797407146d22b7e53acc9c95d",
+      "content": {
+        "keyword1": "猫尾酒馆",
+        "keyword2": "",
+        "primary_entity": "猫尾酒馆",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "猫尾酒馆提供稳定高速的机场订阅与VPN网络加速服务，覆盖多端客户端下载、清晰配置流程与流媒体游戏场景，官方网站安全便捷。",
+          "AI_DESCRIPTION": "猫尾酒馆提供稳定高速的机场订阅与VPN网络加速服务，覆盖多端客户端下载、清晰配置流程与流媒体游戏场景，官方网站安全便捷。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.65;color:#e7f6fb;background:#071525}a{color:#2ee6f0;text-decoration:none}header{background:#04101c;border-bottom:2px solid #12c7d4;padding:12px 16px}nav{display:flex;flex-wrap:wrap;gap:6px 10px}nav a{display:inline-block;padding:8px 10px;font-weight:600;color:#7ceef6}main{max-width:980px;margin:0 auto;padding:16px}h1{font-size:1.75rem;line-height:1.3;color:#5ef0ff;margin:8px 0 14px}h2{font-size:1.35rem;color:#4ddceb;margin:28px 0 12px;padding-left:10px;border-left:4px solid #14c9d6}h3{font-size:1.12rem;color:#9be7f0;margin:16px 0 8px}p,ul,ol{margin-bottom:12px}ul,ol{padding-left:1.2em}.lead{color:#c9eaf0;margin-bottom:16px}.editorial{display:grid;grid-template-columns:1fr;gap:16px}.card,.plan,details{background:#0c2236;border:1px solid #1b4660;border-radius:8px;padding:14px}.plans{display:grid;grid-template-columns:1fr;gap:14px}.plan.featured{border:2px solid #1ee4f2;background:#0a2c44}.price{font-size:1.45rem;color:#39e7f4;font-weight:700;margin:6px 0}.annual{font-size:0.92rem;color:#9ad7e0;margin-bottom:10px}.plan ul{margin:0}.ads{margin:22px 0;padding:14px;text-align:center;border:1px dashed #1aa9b8;color:#8fd8e2}.note{font-size:0.95rem;color:#b9dce4}footer{background:#04101c;margin-top:28px;padding:18px 16px;font-size:0.92rem;color:#9ec9d3}footer p{margin-bottom:8px}.friends a{margin-right:10px}@media(min-width:720px){.editorial{grid-template-columns:1.2fr 0.8fr}.plans{grid-template-columns:repeat(3,1fr)}h1{font-size:2rem}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>猫尾酒馆 官方机场与VPN加速服务</h1><p class=\"lead\">猫尾酒馆聚焦机场订阅与网络加速体验，把节点质量、客户端兼容和配置流程放在同一页面讲清楚，方便用户按场景选择套餐并完成导入。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"editorial\"><div><p>猫尾酒馆是面向个人与小团队的机场服务品牌，核心能力是稳定的订阅接入、可预期的流量配额，以及覆盖流媒体与游戏的线路组合。页面内容围绕官网下载、客户端导入和日常排障展开，避免空泛宣传。</p><p>服务侧重点是可复用的配置路径：开通后复制订阅链接，导入 Clash、Stash、Surge、Quantumult X 或 v2rayN 即可按需切换节点。旗舰与团队方案强调原生流媒体解锁与 IPLC 游戏优化，基础方案适合轻度浏览与学习访问。</p></div><div class=\"card\"><h3>官方身份说明</h3><p>本站为猫尾酒馆信息与下载指引页。套餐、设备上限与流量以开通时展示为准。不收集无关评价，不展示虚构评分。</p><p class=\"note\">建议收藏本页锚点：套餐、配置流程与常见问题，便于二次对照。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按月展示，年付可降低平均成本。流量按自然月重置，同时在线设备数见各方案说明。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>适合需要稳定解锁的观影与播客场景。旗舰版强调全节点原生流媒体能力，减少地区限制带来的反复切换。</p><h3>游戏与实时对战</h3><p>对延迟敏感的用户可优先考虑带 IPLC 优化的方案，把游戏线路与日常浏览线路分开选择，避免高峰拥堵互相影响。</p><h3>远程办公与资料协作</h3><p>跨境会议、代码仓库与网盘同步依赖持续在线。团队版提供更高设备上限与定制路由，方便把办公网段与个人设备隔离。</p><h3>学习研究与轻量浏览</h3><p>文献站点、公开课与常规网页访问，基础版的流量与三设备额度通常足够，先跑通客户端再决定是否升级。</p></section><section id=\"guide\"><h2>配置流程</h2><p>猫尾酒馆把配置拆成可核对的步骤，按顺序做完即可完成机场订阅导入。若某一步失败，先回到对应步骤检查，而不是反复重装软件。</p><div class=\"editorial\"><div><ol><li>在套餐区确认流量、设备数与是否需要 IPLC 或定制路由，完成开通。</li><li>进入用户中心复制订阅链接，保持链接私密，不要发到公开群组。</li><li>根据系统选择客户端：Windows / macOS 可用 Clash Meta 或 Stash，Android 可用 Clash 系，iOS 常用 Shadowrocket 或 Quantumult X。</li><li>在客户端选择从 URL 更新或导入订阅，等待节点列表刷新完成。</li><li>先选延迟较低的日常节点测试网页，再切到流媒体或游戏策略组。</li><li>开启系统代理或 TUN 模式，确认浏览器与应用都走同一套规则。</li></ol></div><div class=\"card\"><h3>流程核对要点</h3><p>系统时间需准确，证书与核心版本保持更新。若导入后节点为空，优先检查订阅是否过期或被截断。</p><p>同一订阅占用设备数计入同时在线，不要在多台设备反复重复登录测试。</p><p>规则建议采用分流：国内直连、国外代理、流媒体独立策略，减少无效绕行。</p></div></div></section><section id=\"clients\"><h2>客户端下载与订阅使用</h2><p>猫尾酒馆官网下载指引以主流开源或常用客户端为主。本页不托管安装包文件，请从各客户端项目的官方发布渠道获取，再用本站订阅链接导入。</p><h3>桌面端</h3><p>Windows 与 macOS 推荐 Clash Meta 内核图形客户端，导入后可按策略组切换。需要精细规则时，可搭配规则集做域名分流。</p><h3>移动端</h3><p>Android 选择支持订阅更新的 Clash 兼容应用。iOS 需自行准备兼容 App，导入同样使用标准订阅地址。平板计入设备额度。</p><h3>订阅维护</h3><p>节点变更后在客户端执行更新订阅。长期不用可暂停套餐，避免订阅泄露。下载与导入完成后，用本页 FAQ 对照常见失败原因。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#faq\">查看导入失败说明</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何开通猫尾酒馆机场订阅？</summary><p>选择基础版、旗舰版或团队版完成支付后，到用户中心复制订阅链接。将链接导入客户端并更新节点，即可按配额使用。年付仅改变结算周期，不改变当月流量计算方式。</p></details><details><summary>客户端下载后如何确认导入成功？</summary><p>订阅更新完成应出现节点列表与策略组。打开一个境外站点测试，同时观察流量是否增长。若列表为空，检查链接完整性、本地时间以及客户端是否支持该订阅格式。</p></details><details><summary>流量与设备数如何理解？</summary><p>基础版每月 100GB、3 台在线；旗舰版 300GB、5 台；团队版 1000GB、20 台。同时在线指同一时刻保持连接的终端数量。流量按套餐周期重置，上传下载合计计入。</p></details><details><summary>游戏加速应选哪条路径？</summary><p>对延迟敏感时优先旗舰版或团队版中的 IPLC 游戏优化节点，先测延迟再进游戏。避免在普通浏览节点上开启全局模式打实时对战，以免高峰拥塞影响手感。</p></details><details><summary>流媒体提示不支持地区怎么办？</summary><p>切换到标明原生解锁的节点，并关闭可能干扰的本地 DNS 或增强模式。旗舰版强调全节点原生流媒体解锁，仍失败时更新订阅后再试同一线路的备用入口。</p></details><details><summary>连接反复断开如何排查？</summary><p>先更新订阅，再更换协议或邻近区域节点。检查系统代理是否被其他软件抢占，关闭冲突的加速工具。团队场景建议固定办公策略组，减少频繁切换。</p></details></section><div class=\"ads\">合作与展示位：品牌互换与商务投放请通过工单沟通，不放置外部脚本或跳转。</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>网站地图：<a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#clients\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p><p class=\"friends\">友情链接：<a href=\"#\">节点状态说明</a><a href=\"#\">客户端导入对照</a><a href=\"#\">分流规则备忘</a></p><p>猫尾酒馆官方网站 · 机场订阅与网络加速信息页</p></footer>",
+          "hash": "5437163189b9e20fd62e6caf64b948aeaddfc0e600c942c9087525b31f2d5c7b",
+          "seo": {
+            "title": "猫尾酒馆官网 | 机场订阅与VPN网络加速客户端下载",
+            "keywords": "猫尾酒馆,猫尾酒馆机场,猫尾酒馆VPN,机场订阅,VPN梯子,网络加速器,客户端下载,官网下载,Clash订阅",
+            "description": "猫尾酒馆提供稳定高速的机场订阅与VPN网络加速服务，覆盖多端客户端下载、清晰配置流程与流媒体游戏场景，官方网站安全便捷。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yisuwu.cn",
+    "host": "p-e46ce4d849.yisuwu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "yisuwu.cn",
+      "url": "https://yisuwu.cn/",
+      "label": "菜市场(Texon)",
+      "apex": "yisuwu.cn",
+      "kind": null,
+      "identity": "wyeueuajy/page-981472a6fbebf983aa80550a"
+    },
+    {
+      "host": "boyangerp.cn",
+      "url": "https://boyangerp.cn/",
+      "label": "猫尾酒馆",
+      "apex": "boyangerp.cn",
+      "kind": null,
+      "identity": "tpgkwnxj3/page-19bd9bfaa4496bc42aba39b4"
+    },
+    {
+      "host": "hxjhhs.cn",
+      "url": "https://hxjhhs.cn/",
+      "label": "猫尾酒馆",
+      "apex": "hxjhhs.cn",
+      "kind": null,
+      "identity": "hfjnqeg/page-49e6a16ab45aaebd64189c9a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0c35c71022a59382c105dd9769a669a493966cf3e2d7a25aa2607675bf8af61d",
+    "sitemap.xml": "587e744eb0bcfb9eb8cf6de2233427c17b911e0f5c168d0962e0a900ae046e7c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "64fa96741672fb22676d4b0dcd81067d679ca3fbe6a73450e89c2501718885c4",
+    "robots.txt": "788c9b493fbf8d6c17265edb23234d9d47829a90e8ee1c494441ea987b79e685",
+    "1f29f3b4667f8448ea14876003bdbcd3.txt": "7c0bc7b24d686782fb43a6f4755a8d5e3ad51521e3f46efbc6a0e2793e14c8ca"
+  },
+  "revision": "6839461a4d1c628b3c503c3092df6769d42b736587c6caab196415d1dfbd1100"
+}
